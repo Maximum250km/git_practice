@@ -2,3 +2,5 @@ git push you origin
 
 
 try git push -v
+
+add all
